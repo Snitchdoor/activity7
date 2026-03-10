@@ -13,3 +13,4 @@ $factory->define(Course::class, function (Faker $faker) {
         'group_id' => rand(1, 5),
     ];
 });
+
